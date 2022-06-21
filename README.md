@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alindquist17
+- 👋 Hi, I’m Austin!
 - 👀 I’m interested in ... learning coding and programming!
 - 🌱 I’m currently learning ... Python Code
 - 💞️ I’m looking to collaborate on ... basic concepts
